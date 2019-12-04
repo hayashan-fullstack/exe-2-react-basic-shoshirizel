@@ -2,8 +2,8 @@
 
 ### update details
 
-name:  
-id:
+name:  shoshi rizel
+id:207879099
 
 #### you have only to upload file "index.js" to repo.
   
